@@ -1,0 +1,5 @@
+---
+httpd_port: 8080
+httpd_domain: www.ivan.com
+httpd_owner: apache
+httpd_group: apache
